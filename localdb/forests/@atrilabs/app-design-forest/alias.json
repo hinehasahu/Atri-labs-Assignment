@@ -1,0 +1,17 @@
+{
+  "Div": 11,
+  "Flex": 25,
+  "Image": 14,
+  "Link": 11,
+  "TextBox": 46,
+  "Dropdown": 1,
+  "Button": 4,
+  "Icon": 1,
+  "Step": 2,
+  "Radio": 1,
+  "Table": 1,
+  "Input": 1,
+  "LineChart": 1,
+  "Carousel": 2,
+  "Slider": 1
+}
